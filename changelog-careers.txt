@@ -1,0 +1,28 @@
+== Changelog ==
+
+= 1.1.4 (2024-10-11) =
+* Content dump file removed from the assets folder to pass the Theme Check requirements
+
+= 1.1.3 (2024-10-11) =
+* Blog post images added to the assets folder
+
+= 1.1.2 (2024-10-04) =
+* Dependencies updated
+* Code improvements
+
+= 1.1.1 (2024-08-30) =
+* Remove UTM tags from the theme URI
+
+= 1.1.0 (2024-08-30) =
+* Compatibility with older version of PHP (7.4) implemented
+* Theme container implementation improved
+* Dependencies updated
+* Code improvements
+
+= 1.0.1 (2024-08-19) =
+* Issue with the header pattern fixed
+* Theme screenshot updated and optimized (size reduction)
+* Styles for the "core/button" and "core/heading" blocks improved
+
+= 1.0.0 (2024-08-14) =
+* The first stable release
