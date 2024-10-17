@@ -1,5 +1,10 @@
 == Changelog ==
 
+= 1.3.2 (2024-10-17) =
+* Add link to the plugin page on TeydeaStudio.com
+* Dependencies updated
+* Code improvements
+
 = 1.3.1 (2024-10-11) =
 * Language files updated for Polish translation
 * Language mapping file added for easier generation of JSON translation files

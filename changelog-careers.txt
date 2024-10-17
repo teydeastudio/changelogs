@@ -1,5 +1,8 @@
 == Changelog ==
 
+= 1.1.5 (2024-10-17) =
+* Improve font styles in "hiring-hub/job-specification-list" block
+
 = 1.1.4 (2024-10-11) =
 * Content dump file removed from the assets folder to pass the Theme Check requirements
 
