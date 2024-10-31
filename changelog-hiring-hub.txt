@@ -1,5 +1,10 @@
 == Changelog ==
 
+= 1.4.0 (2024-10-31) =
+* Rename the plugin to Hiring Center
+* Dependencies updated
+* Code improvements
+
 = 1.3.3 (2024-10-25) =
 * JS dependency map and tree-shaking optimized
 

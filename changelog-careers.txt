@@ -1,7 +1,12 @@
 == Changelog ==
 
+= 1.1.6 (2024-10-31) =
+* Update the references to renamed Hiring Center plugin
+* Dependencies updated
+* Code improvements
+
 = 1.1.5 (2024-10-17) =
-* Improve font styles in "hiring-hub/job-specification-list" block
+* Improve font styles in "Job Specification List" block of the Hiring Center plugin
 
 = 1.1.4 (2024-10-11) =
 * Content dump file removed from the assets folder to pass the Theme Check requirements
