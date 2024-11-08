@@ -1,5 +1,13 @@
 == Changelog ==
 
+= 1.2.0 (2024-11-??) =
+* Compatibility with WordPress 6.7 confirmed
+* Admin notice implementation improved
+* "About the theme" page implemented
+* Favicon file updated
+* Dependencies updated
+* Code improvements
+
 = 1.1.6 (2024-10-31) =
 * Update the references to renamed Hiring Center plugin
 * Dependencies updated
