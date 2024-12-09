@@ -1,5 +1,11 @@
 == Changelog ==
 
+= 1.5.0 (2024-11-20) =
+* Custom capabilities for managing the plugin settings implemented
+* Compatibility with WordPress 6.7 confirmed
+* Dependencies updated
+* Code improvements
+
 = 1.4.1 (2024-11-04) =
 * Update the plugin slug and data prefix
 
