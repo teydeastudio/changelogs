@@ -1,5 +1,9 @@
 == Changelog ==
 
+= 1.2.2 (2024-12-13) =
+* Fix admin notice dismiss functionality
+* Replace deprecated @import with @use in SASS files
+
 = 1.2.1 (2024-12-13) =
 * Fix incorrect function call
 
