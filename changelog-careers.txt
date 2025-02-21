@@ -1,5 +1,8 @@
 == Changelog ==
 
+= 1.3.0 (2025-02-21) =
+* Dependencies updated
+
 = 1.2.2 (2024-12-13) =
 * Fix admin notice dismiss functionality
 * Replace deprecated @import with @use in SASS files
