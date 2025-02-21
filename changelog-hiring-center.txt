@@ -1,5 +1,10 @@
 == Changelog ==
 
+= 1.6.0 (2025-02-21) =
+* Job specification fields reordering implemented
+* Dependencies updated
+* Code improvements
+
 = 1.5.0 (2024-11-20) =
 * Custom capabilities for managing the plugin settings implemented
 * Compatibility with WordPress 6.7 confirmed
