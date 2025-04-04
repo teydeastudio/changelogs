@@ -1,5 +1,11 @@
 == Changelog ==
 
+= 1.6.1 (2025-04-04) =
+* Compatibility with WordPress 6.8 confirmed
+* Issue of requesting the translated string too early fixed
+* Dependencies updated
+* Code improvements
+
 = 1.6.0 (2025-02-21) =
 * Job specification fields reordering implemented
 * Dependencies updated
