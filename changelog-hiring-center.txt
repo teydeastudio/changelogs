@@ -1,5 +1,9 @@
 == Changelog ==
 
+= 1.6.2 (2025-05-08) =
+* Plugin links and references to TeydeaStudio updated
+* Dependencies updated
+
 = 1.6.1 (2025-04-04) =
 * Compatibility with WordPress 6.8 confirmed
 * Issue of requesting the translated string too early fixed
