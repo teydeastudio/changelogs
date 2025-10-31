@@ -1,7 +1,7 @@
 == Changelog ==
 
 = 1.6.2 (2025-05-08) =
-* Plugin links and references to TeydeaStudio updated
+* Plugin links and references to Teydea Studio updated
 * Dependencies updated
 
 = 1.6.1 (2025-04-04) =
