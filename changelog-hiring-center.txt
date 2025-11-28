@@ -1,5 +1,10 @@
 == Changelog ==
 
+= 1.6.3 (2025-11-28) =
+* Compatibility with WordPress 6.9 confirmed
+* Dependencies updated
+* Code improvements
+
 = 1.6.2 (2025-05-08) =
 * Plugin links and references to Teydea Studio updated
 * Dependencies updated
