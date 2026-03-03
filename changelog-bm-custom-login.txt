@@ -1,4 +1,6 @@
-= 3.0.0 (2026-02-16) =
+== Changelog ==
+
+= 3.0.0 (2026-03-04) =
 * Complete plugin rebuild with a modern, React-based settings page and live preview
 * Add granular styling controls for form container, labels, input fields, checkboxes, and buttons (including separate hover and focus states)
 * Add primary and secondary button customization with font, color, size, width, and alignment options
