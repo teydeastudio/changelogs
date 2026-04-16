@@ -1,5 +1,13 @@
 == Changelog ==
 
+= 1.7.0 (2026-04-16) =
+* Compatibility with WordPress 7.0 confirmed
+* Dependencies updated
+* Formatting updates
+* Direct access protection added to all PHP files
+* Unnecessary translation files removed since these are loaded from WordPress.org
+* Code improvements
+
 = 1.6.3 (2025-11-28) =
 * Compatibility with WordPress 6.9 confirmed
 * Dependencies updated
