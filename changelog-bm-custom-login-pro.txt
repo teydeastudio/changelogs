@@ -1,5 +1,13 @@
 == Changelog ==
 
+= 1.2.0 (2026-06-22) =
+* Security fix: prevent stored CSS injection on the login page (sanitize custom color and box-shadow values on save)
+* Incorporate updates introduced in the free plugin (version 3.2.0), including configurable logo margins and the full-size logo fix
+* Settings page tabs are now reflected in the URL, so a tab can be bookmarked and shared
+* Added a clear admin notice for unmet server requirements (minimum PHP/WordPress version, required extensions)
+* Dependencies updated
+* Code improvements
+
 = 1.1.0 (2026-04-16) =
 * Compatibility with WordPress 7.0 confirmed
 * Incorporate updates introduced in the free plugin (version 3.1.0)

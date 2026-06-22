@@ -1,5 +1,11 @@
 == Changelog ==
 
+= 1.7.1 (2026-06-22) =
+* Settings page tabs are now reflected in the URL, so a tab can be bookmarked and shared
+* Added a clear admin notice for unmet server requirements (minimum PHP/WordPress version, required extensions)
+* Dependencies updated
+* Code improvements
+
 = 1.7.0 (2026-04-16) =
 * Compatibility with WordPress 7.0 confirmed
 * Dependencies updated

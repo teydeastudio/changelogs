@@ -1,5 +1,9 @@
 == Changelog ==
 
+= 1.4.1 (2026-06-22) =
+* Dependencies updated
+* Code improvements
+
 = 1.4.0 (2026-04-16) =
 * Compatibility with WordPress 7.0 confirmed
 * Dependencies updated
