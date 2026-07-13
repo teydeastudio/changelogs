@@ -1,0 +1,18 @@
+== Changelog ==
+
+= 1.0.3 (2026-06-22) =
+* Added the plugin icon
+* Settings page tabs are now reflected in the URL, so a tab can be bookmarked and shared
+* Added a clear admin notice for unmet server requirements (minimum PHP/WordPress version, required extensions)
+* Dependencies updated
+* Code improvements
+
+= 1.0.2 (2026-04-27) =
+* An FAQ entry added to readme.txt, explaining where the unminified source code lives in the plugin and how to rebuild it from source
+
+= 1.0.1 (2026-04-24) =
+* The "Pre-expiry warning" and "Dashboard widget window" settings now accept any number of days within a reasonable range, with quick-set presets for common values
+* Direct loading of wp-includes/version.php in the WordPress version detection fallback removed
+
+= 1.0.0 (2026-04-07) =
+* The first stable release
