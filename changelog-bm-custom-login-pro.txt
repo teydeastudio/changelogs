@@ -1,5 +1,13 @@
 == Changelog ==
 
+= 1.3.0 (2026-08-28) =
+* Plugin renamed to "Teydea Login Customizer PRO"; settings, hooks, and stored data are unchanged
+* Incorporate updates introduced in the free plugin (version 3.3.0), including the new "Remember Me" help tooltip controls and WordPress 7.1 compatibility
+* Every built-in template now styles the "Remember Me" help tooltip to match its palette
+* Improved translatability of the custom login URL settings
+* Dependencies updated
+* Code improvements
+
 = 1.2.1 (2026-06-25) =
 * Incorporate updates introduced in the free plugin (version 3.2.1), fixing images and template slider backgrounds not rendering in the sandboxed login-page preview
 

@@ -1,5 +1,14 @@
 == Changelog ==
 
+= 1.1.0 (2026-08-28) =
+* Plugin renamed to "Teydea Content Expiry", with a new icon and updated links
+* Compatibility with WordPress 7.1 confirmed
+* Fixed help text not being announced as the description of the field it belongs to on the settings and editor screens
+* Fixed a successful settings save reporting itself as failed on WordPress 6.6
+* Plugin banners and screenshots added to the WordPress.org listing
+* Dependencies updated
+* Code improvements
+
 = 1.0.3 (2026-06-22) =
 * Added the plugin icon
 * Settings page tabs are now reflected in the URL, so a tab can be bookmarked and shared
