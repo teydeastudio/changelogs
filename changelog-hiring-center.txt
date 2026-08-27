@@ -1,5 +1,14 @@
 == Changelog ==
 
+= 1.8.0 (2026-08-28) =
+* Plugin renamed to "Teydea Hiring Center", with a new icon and updated links
+* Compatibility with WordPress 7.1 confirmed
+* Fixed help text not being announced as the description of the field it belongs to on the settings screens
+* Fixed a successful settings save reporting itself as failed on WordPress 6.6
+* Job specification panel headings are now fully translatable
+* Dependencies updated
+* Code improvements
+
 = 1.7.1 (2026-06-22) =
 * Settings page tabs are now reflected in the URL, so a tab can be bookmarked and shared
 * Added a clear admin notice for unmet server requirements (minimum PHP/WordPress version, required extensions)
