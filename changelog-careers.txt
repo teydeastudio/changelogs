@@ -1,5 +1,19 @@
 == Changelog ==
 
+= 2.0.0 (2026-09-08) =
+* The homepage is now a page you edit rather than a fixed template; on an existing site, create it once as described under "Building your site" in the theme's readme
+* Template parts are now the header and the footer only, so editing a section on one page no longer changes it on another
+* The three font families are now one preset that each font choice redefines; a block you had set to "Fira Sans" by hand follows whichever font the site uses instead
+* Added three color schemes and three font choices, picked independently in the Site Editor
+* Added six full-page patterns: Home, Culture, What we offer, How we hire, Our teams and Candidate questions
+* Added two page templates for landing pages, and a heading style with a three-dot mark
+* Activating the theme now offers to set your site up like the demo: a notice installs the free Teydea Site Assistant plugin and opens a wizard that asks for your colors, font, logo and site title, shows you the result on a live copy of the demo, then installs the plugins this theme works with and, if you ask it to, brings in the demo's pages and vacancies
+* The offer goes away once you have been through the wizard, and closing the notice hides it for your account; the wizard itself stays under the plugin's own "Site Assistant" menu
+* The "About the theme" page under "Appearance" is gone: the plugins it recommended are now the wizard's plugin step, the demo content it offered as a file to download and run through the WordPress Importer is what the wizard brings in for you, and what it said about the theme is in the theme's readme and on the theme's WordPress.org page
+* Compatibility with WordPress 7.1 confirmed
+* Dependencies updated
+* Code improvements
+
 = 1.4.1 (2026-06-22) =
 * Dependencies updated
 * Code improvements

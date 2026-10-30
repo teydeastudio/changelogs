@@ -1,5 +1,16 @@
 == Changelog ==
 
+= 3.4.0 (2026-10-30) =
+* Background color settings now accept gradients from the picker's Gradient tab; a saved gradient used to be emptied
+* Templates that put the Log In button on its own line keep their spacing on WordPress 7.1.1 and later
+* The login media pickers now refuse images browsers cannot display, such as unconverted HEIC files
+* Fixed the login preview staying in an error state after a successful retry, and losing its loading state when settings changed during a refresh
+* Fixed a broken feature link in the PRO upsell panel
+* Accessibility: preview errors are announced more reliably to screen readers, and the icon picker exposes the selected icon
+* The minimum supported WordPress version is now 6.8
+* Dependencies updated
+* Code improvements
+
 = 3.3.0 (2026-08-28) =
 * Plugin renamed to "Teydea Login Customizer"; settings, hooks, and stored data are unchanged
 * Compatibility with WordPress 7.1 confirmed
