@@ -1,5 +1,20 @@
 == Changelog ==
 
+= 1.4.0 (2026-10-30) =
+* Incorporate updates introduced in the free plugin (version 3.4.0)
+* "Use this template" now changes design settings only; it used to also clear the license key, the custom login path, the redirect rules and custom texts
+* Updates now come through the new Teydea Studio Updates API: the license takes a site slot only when a key is saved and frees it when the key is removed or the plugin is uninstalled, and an update the license cannot install is still listed with the reason
+* Dashboard → Updates now shows license guidance and no longer offers an update that has nothing to download
+* Fixed update checks when both Teydea PRO plugins are active, and the plugin now checks the update server for updates at all
+* Security: the plugin updater now checks the update server's response before offering an update; layout and background color settings now validate their values and accept gradients
+* Personal-data exports now include the user's redirect rule assignments
+* Fixed the return destination after signing in through the custom login URL on WordPress installed in a subdirectory
+* Duplicate images created by concurrent template imports are now cleaned up without removing media the site uses
+* The role and user pickers in the redirect settings no longer stop at ten entries on WordPress 6.6–7.0
+* License settings now work on sites with a Unicode domain name
+* Dependencies updated
+* Code improvements
+
 = 1.3.0 (2026-08-28) =
 * Plugin renamed to "Teydea Login Customizer PRO"; settings, hooks, and stored data are unchanged
 * Incorporate updates introduced in the free plugin (version 3.3.0), including the new "Remember Me" help tooltip controls and WordPress 7.1 compatibility

@@ -1,5 +1,16 @@
 == Changelog ==
 
+= 1.9.0 (2026-10-30) =
+* Suggested privacy policy text for application contact emails is now available in WordPress's Privacy Policy Guide
+* Personal-data exports now include application contact emails and the jobs they belong to
+* Job specification previews in the editor now check that the user can edit that job
+* Fixed requests with malformed filter values failing during page load
+* Accessibility: filter choices expose their selected state, and the schema table has row headers
+* Security: JSON in the schema markup is now escaped against HTML parsing
+* The minimum supported WordPress version is now 6.8
+* Dependencies updated
+* Code improvements
+
 = 1.8.0 (2026-08-28) =
 * Plugin renamed to "Teydea Hiring Center", with a new icon and updated links
 * Compatibility with WordPress 7.1 confirmed

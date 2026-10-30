@@ -1,5 +1,23 @@
 == Changelog ==
 
+= 1.2.0 (2026-10-30) =
+* Editors can undo an automated expiry with a new "Restore previous status" action in the Posts and Pages lists, and the Expiry column shows the status a post had before it expired
+* Fixed expiry dates set across a daylight saving change being stored an hour off
+* Personal-data exports now include notification recipient memberships, and erasure requests remove the user from the recipients
+* Accessibility: the Expires date field in the document sidebar and the Timed Content block now has a label
+* A canceled scheduled action now stays canceled when it was already running
+* Saving settings now reports an error when WordPress refuses the database write
+* The minimum supported WordPress version is now 6.8
+* Dependencies updated
+* Code improvements
+
+= 1.1.1 (2026-10-12) =
+* Fixed roles and users past the tenth not being selectable in the settings
+* Editor panel open/closed and enabled/disabled preferences are now remembered between page loads
+* Dashboard widget table rows are now announced by screen readers with the post they belong to
+* Dependencies updated
+* Code improvements
+
 = 1.1.0 (2026-08-28) =
 * Plugin renamed to "Teydea Content Expiry", with a new icon and updated links
 * Compatibility with WordPress 7.1 confirmed
