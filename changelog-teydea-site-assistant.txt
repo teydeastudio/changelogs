@@ -1,4 +1,26 @@
 == Changelog ==
 
-= 1.0.0 (2026-??-??) =
+= 1.0.2 (2026-11-23) =
+* The setup wizard shows how many pages, posts and other entries the demo adds, and which demo page becomes the front page
+* Demo content is imported in full on the first run, including fields that hold a list
+* Content for a plugin the setup is about to install is named as the demo names it, not by its internal name
+* A setup step that did not finish is marked "Unfinished", rather than with a "Try again" that could not be clicked
+* Changing looks in the setup wizard restores the styles an earlier look replaced, and keeps changes made in the Site Editor
+* The demo preview in the setup wizard runs in a sandbox and sends no referrer
+* Installing a plugin from a card keeps you on the screen you were on
+* Front-page checks read pages that contain large inline scripts or comments correctly
+* A scheduled task is no longer marked done or run twice by a worker whose hold on it has expired
+* Dependencies updated
+* Code improvements
+
+= 1.0.1 (2026-11-13) =
+* The setup wizard asks before it loads the live preview from the demo site, and offers the theme's screenshots instead
+* The settings screen keeps a history of saved settings, which can be restored
+* Applying a look in the setup wizard no longer overwrites a Site Editor save made at the same moment
+* The 404 monitor counts every first visit from a referring site, including two that arrive at once
+* Old scheduled-task records are cleaned up in smaller batches
+* Dependencies updated
+* Code improvements
+
+= 1.0.0 (2026-11-09) =
 * The first stable release
